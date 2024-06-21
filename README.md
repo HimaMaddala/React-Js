@@ -1,9 +1,9 @@
 # React-Js
 
 This repo consists of important react code snippets and files for open source contribution to ease coding React
-# 1)Fruits list.jsx
-Implements a frontend route for api endpoint using react which is to be handled by using express in backend as api
-# 2)Navbar using react
-# 3)Table format
+# 1)React List - FruitsList.jsx
+# 2)React Navbar - Navbar.jsx
+# 3)React Table - FruitsTable.jsx
+# 4)React Pagination - Pagination.jsx
 
 
